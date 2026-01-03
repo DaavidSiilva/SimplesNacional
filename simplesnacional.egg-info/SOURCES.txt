@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+simplesnacional/__init__.py
+simplesnacional.egg-info/PKG-INFO
+simplesnacional.egg-info/SOURCES.txt
+simplesnacional.egg-info/dependency_links.txt
+simplesnacional.egg-info/entry_points.txt
+simplesnacional.egg-info/requires.txt
+simplesnacional.egg-info/top_level.txt

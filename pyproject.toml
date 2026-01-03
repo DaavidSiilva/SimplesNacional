@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simplesnacional"
+version = "0.1.0"
+description = "Biblioteca e CLI para consulta e atualização da base de dados do Simples Nacional."
+readme = "README.md"
+authors = [
+    {name = "David Silva", email = "david.emery.silva@gmail.com"},
+]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.7"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "rich"
+]
+
+[project.scripts]
+simplesnacional = "simplesnacional:cli"
+
+[tool.setuptools]
+py-modules = ["simplesnacional"]
