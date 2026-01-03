@@ -1,5 +1,7 @@
 # Simples Nacional Lib
-<img style="text-align:center" alt="image" src="https://github.com/user-attachments/assets/b4a11a93-2f85-431c-86d9-ed0f647f241f" />
+<div align="center">
+  <img alt="image" src="https://github.com/user-attachments/assets/b4a11a93-2f85-431c-86d9-ed0f647f241f" />
+</div>
 
 Biblioteca e CLI em Python para consulta e atualização da base de dados pública do Simples Nacional (CNPJs).
 
