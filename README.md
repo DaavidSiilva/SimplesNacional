@@ -92,3 +92,11 @@ A função `consulta` retorna um objeto `DadosSimples` com os seguintes atributo
 ## Licença
 
 MIT License
+
+### Aviso Legal e Isenção de Responsabilidade
+
+Este software é um projeto **independente e de código aberto**.
+
+Esta biblioteca e CLI **não possuem qualquer vínculo, afiliação, endosso ou parceria** com a Receita Federal do Brasil ou qualquer outra entidade governamental.
+
+O objetivo deste projeto é estritamente facilitar o acesso técnico e a consulta automatizada à base de dados pública do Simples Nacional. Embora a ferramenta utilize dados públicos oficiais, ela não substitui os canais oficiais de consulta para fins legais, fiscais ou tributários.
