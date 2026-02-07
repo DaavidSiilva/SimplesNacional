@@ -3,6 +3,13 @@
   <img alt="image" src="https://github.com/user-attachments/assets/b4a11a93-2f85-431c-86d9-ed0f647f241f" />
 </div>
 
+<p align="center">
+  <img src="https://static.pepy.tech/badge/simplesnacional" />
+  <img src="https://img.shields.io/pypi/v/simplesnacional" />
+  <img src="https://img.shields.io/github/stars/DaavidSiilva/simplesnacional" />
+</p>
+
+
 Biblioteca e CLI em Python para consulta e atualização da base de dados pública do Simples Nacional (CNPJs).
 
 ## Instalação
